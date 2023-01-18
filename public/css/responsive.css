@@ -1,0 +1,66 @@
+@media (width: 375px) {
+	
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    -webkit-transform-style: preserve-3d;
+    height: 300px;
+}
+
+.logo-mobile-menu img {
+	width: 110px;
+	height: 40px;
+}
+
+.about2-area {
+    padding: 49px 0 23px;
+    background: #f5f5f5;
+}
+
+.brand-area .brand-area-box a img {
+    width: 100%;
+    margin: 0 auto;
+    height: 210px;
+}	
+	
+	
+}
+
+@media (width: 412px) {
+	
+.about2-area {
+    padding: 49px 0 23px;
+    background: #f5f5f5;
+}
+
+	
+}
+
+
+@media (width: 684px) {
+	
+.about2-area {
+    padding: 49px 0 23px;
+    background: #f5f5f5;
+}
+
+@media (width:1024px) {
+
+.header2-area nav#desktop-nav > ul > li > a {
+	padding: 30px 13px;
+}
+
+.header2-area nav#desktop-nav > ul > li > a{ font-size:14px; }
+
+nav#desktop-nav ul {
+	text-align: right;
+}
+
+.service2-area {
+ padding: 0px;
+}
+
+
+
+
+}
